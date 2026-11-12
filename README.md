@@ -28,4 +28,4 @@ Make sure you have PyTorch installed on your machine and CUDA support. Additiona
 
 **Contact**: [yimingshi666@gmail.com](mailto:yimingshi666@gmail.com)
 
-**GitHub**: [https://github.com/SKDDJ/train_dit](https://github.com/SKDDJ/train_dit)
+**GitHub**: [https://github.com/yimingshi-cs/train_dit](https://github.com/yimingshi-cs/train_dit)

@@ -14,7 +14,7 @@ setup(
     description='A package to occupy GPU resources by performing matrix multiplications.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/SKDDJ/train_dit', 
+    url='https://github.com/yimingshi-cs/train_dit', 
     packages=find_packages(),
     install_requires=[
         'torch>=1.0.0',
